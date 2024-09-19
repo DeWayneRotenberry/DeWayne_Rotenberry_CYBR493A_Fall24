@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added others folder" />
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added others folder">
+      <change afterPath="$PROJECT_DIR$/Homeworks/DBConnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/forTrial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/forTrial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/methods_and_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/methods_and_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/File" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +24,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CYBR493A-Fall-24" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -48,23 +62,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DBConnector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DBTester.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Training&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DBConnector.executor": "Run",
+    "Python.DBTester.executor": "Run",
+    "Python.For Loops.executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.default.executor": "Run",
+    "Python.forTrial.executor": "Run",
+    "Python.methods_and_main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeworks" />
       <recent name="$PROJECT_DIR$/Training" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="default" type="PythonConfigurationType" factoryName="Python">
+      <module name="CYBR493A-Fall-24" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="pythonForCyber" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/For Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -130,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725988938590</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added others folder">
+      <option name="closed" value="true" />
+      <created>1726576549307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726576549307</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
