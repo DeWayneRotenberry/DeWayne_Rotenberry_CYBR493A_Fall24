@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added others folder">
-      <change afterPath="$PROJECT_DIR$/Homeworks/DBConnector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/forTrial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/forTrial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/methods_and_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/methods_and_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="Added HW#1 to homeworks.">
+      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity2_DB_Creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity2_DB_Truncator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity2_Pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In Class Activities/DBConnector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/File" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -64,6 +64,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Activity2_DB_Creator.executor": "Run",
+    "Python.Activity2_DB_Truncator.executor": "Run",
+    "Python.Activity2_Pro.executor": "Run",
     "Python.DBConnector.executor": "Run",
     "Python.DBTester.executor": "Run",
     "Python.For Loops.executor": "Run",
@@ -74,12 +77,13 @@
     "Python.methods_and_main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks",
+    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/In Class Activities",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/In Class Activities" />
       <recent name="$PROJECT_DIR$/Homeworks" />
       <recent name="$PROJECT_DIR$/Training" />
     </key>
@@ -184,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726576549307</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added HW#1 to homeworks.">
+      <option name="closed" value="true" />
+      <created>1726771473883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726771473883</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +215,7 @@
     <MESSAGE value="Added homeworks and projects file" />
     <MESSAGE value="Added printout of first and last name to helloworld" />
     <MESSAGE value="added others folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="added others folder" />
+    <MESSAGE value="Added HW#1 to homeworks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW#1 to homeworks." />
   </component>
 </project>
