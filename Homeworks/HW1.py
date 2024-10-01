@@ -20,7 +20,7 @@ sqlCommand = 'CREATE TABLE IF NOT EXISTS Rotenberry_DeWayne_HW1_Ips (IP  VARCHAR
 my_db.query(sqlCommand, '')
 
 # 10 random ips
-ips = ['192.168.1.1','127.0.0.1','10.0.0.1','172.18.1.0','10.10.10.10','192.118.50.1','172.10.10.1','203.0.110.1','12.12.12.12','203.188.10.1']
+ips = ['192.168.1.1','127.0.0.1']
 
 
 
