@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="Added Activity 2 files">
-      <change afterPath="$PROJECT_DIR$/Homeworks/HW1 (IN CLASS).py" afterDir="false" />
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="updated repo">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CYBR493A-Fall-24" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -64,12 +64,15 @@
     &quot;Python.Activity2_DB_Creator.executor&quot;: &quot;Run&quot;,
     &quot;Python.Activity2_DB_Truncator.executor&quot;: &quot;Run&quot;,
     &quot;Python.Activity2_Pro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity3_Cipher (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity3_Cipher.executor&quot;: &quot;Run&quot;,
     &quot;Python.DBConnector.executor&quot;: &quot;Run&quot;,
     &quot;Python.DBTester.executor&quot;: &quot;Run&quot;,
     &quot;Python.For Loops.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW1 (IN CLASS).executor&quot;: &quot;Run&quot;,
     &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
     &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ceaser_cipher.executor&quot;: &quot;Run&quot;,
     &quot;Python.default.executor&quot;: &quot;Run&quot;,
     &quot;Python.forTrial.executor&quot;: &quot;Run&quot;,
     &quot;Python.methods_and_main.executor&quot;: &quot;Run&quot;,
@@ -202,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727183622910</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added hw1 in class">
+      <option name="closed" value="true" />
+      <created>1727387759391</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727387759391</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +234,7 @@
     <MESSAGE value="added others folder" />
     <MESSAGE value="Added HW#1 to homeworks." />
     <MESSAGE value="Added Activity 2 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Activity 2 files" />
+    <MESSAGE value="Added hw1 in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added hw1 in class" />
   </component>
 </project>
