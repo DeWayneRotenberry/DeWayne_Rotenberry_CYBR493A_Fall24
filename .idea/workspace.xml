@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="updated repo">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727387759391</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated repo">
+      <option name="closed" value="true" />
+      <created>1727830562497</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727830562498</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +242,7 @@
     <MESSAGE value="Added HW#1 to homeworks." />
     <MESSAGE value="Added Activity 2 files" />
     <MESSAGE value="Added hw1 in class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hw1 in class" />
+    <MESSAGE value="updated repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated repo" />
   </component>
 </project>
