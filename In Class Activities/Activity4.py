@@ -16,6 +16,7 @@ def generate_key():
         with open("secret.key", "wb") as key_file:
             key_file.write(key)
 
+
 # Function to load the Fernet key from a file
 def load_key():
     return open("secret.key", "rb").read()
