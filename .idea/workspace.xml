@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="updated repo">
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="Submitted activity4">
+      <change afterPath="$PROJECT_DIR$/Homeworks/secured_login_application_hw2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/Cryptography/secure_login_application/secured_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/Cryptography/secure_login_application/secured_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
     <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CYBR493A-Fall-24" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -58,29 +60,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Activity2_DB_Creator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity2_DB_Truncator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity2_Pro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity3_Cipher (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity3_Cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DBConnector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DBTester.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1 (IN CLASS).executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ceaser_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.default.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forTrial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.methods_and_main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Activity2_DB_Creator.executor": "Run",
+    "Python.Activity2_DB_Truncator.executor": "Run",
+    "Python.Activity2_Pro.executor": "Run",
+    "Python.Activity3_Cipher (1).executor": "Run",
+    "Python.Activity3_Cipher.executor": "Run",
+    "Python.Activity4.executor": "Run",
+    "Python.DBConnector.executor": "Run",
+    "Python.DBTester.executor": "Run",
+    "Python.For Loops.executor": "Run",
+    "Python.HW1 (IN CLASS).executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.ceaser_cipher.executor": "Run",
+    "Python.default.executor": "Run",
+    "Python.fernet_decryption.executor": "Run",
+    "Python.fernet_encryption.executor": "Run",
+    "Python.forTrial.executor": "Run",
+    "Python.methods_and_main.executor": "Run",
+    "Python.secured_login.executor": "Run",
+    "Python.secured_login_application_hw2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Homeworks" />
@@ -220,7 +227,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727830562498</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated repo">
+      <option name="closed" value="true" />
+      <created>1728393100033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728393100033</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated repo">
+      <option name="closed" value="true" />
+      <created>1728583964657</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728583964658</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Submitted activity4">
+      <option name="closed" value="true" />
+      <created>1728584200767</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728584200767</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +274,7 @@
     <MESSAGE value="Added Activity 2 files" />
     <MESSAGE value="Added hw1 in class" />
     <MESSAGE value="updated repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated repo" />
+    <MESSAGE value="Submitted activity4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Submitted activity4" />
   </component>
 </project>
