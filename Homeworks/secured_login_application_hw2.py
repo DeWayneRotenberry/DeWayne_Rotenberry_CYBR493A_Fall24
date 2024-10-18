@@ -37,6 +37,7 @@ def create_users_table(db):
 
 
 def insert_user(db, username, password):
+    #hashes username and password
     hashed_username = hash_data(username)
     hashed_password = hash_data(password)
 
