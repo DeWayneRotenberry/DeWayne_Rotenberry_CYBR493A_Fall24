@@ -100,7 +100,7 @@ def create_login_screen(db):
 # Main Function
 def main():
     # List of required packages
-    required_packages = ['hashlib', 'Crypto']
+    required_packages = ['hashlib', 'Crypto', 'package3']
 
     for package in required_packages:
         try:
