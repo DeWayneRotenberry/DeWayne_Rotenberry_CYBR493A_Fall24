@@ -14,7 +14,12 @@ import tkinter as tk
 from tkinter import messagebox
 import os
 import DBConnector
+import subprocess
+import sys
 
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 # Database Connection
 
@@ -94,6 +99,14 @@ def create_login_screen(db):
 
 # Main Function
 def main():
+    # List of required packages
+    required_packages = ['hashlib', 'Crypto']
+
+    for package in required_packages:
+        try:
+            __import__(package)
+        except ImportError:
+            install(package)
 
     # Connect to the database
     db = DBConnector.MyDB()
