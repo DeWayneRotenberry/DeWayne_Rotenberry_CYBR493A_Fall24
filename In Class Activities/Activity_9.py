@@ -1,6 +1,6 @@
 import Web_Scraping_beautiful_soup as ws
 
-
+#used chat gpt to help with the way was being printed out
 # Main function to initialize and run the scraper
 def main():
     # Initialize the scraper with the base URL
