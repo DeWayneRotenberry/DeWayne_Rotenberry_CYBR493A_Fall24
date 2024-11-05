@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added activity 8">
-      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In Class Activities/Web_Scraping_beautiful_soup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/.idea/CYBR493A-Fall-24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/.idea/CYBR493A-Fall-24.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/Web Scraping/Web_Scraping_lxml_Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/In Class Activities/Web Scraping/Web_Scraping_lxml_Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added activity 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +291,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730474897537</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added activity 9">
+      <option name="closed" value="true" />
+      <created>1730836863474</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730836863474</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added activity 9">
+      <option name="closed" value="true" />
+      <created>1730837006959</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730837006959</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +334,7 @@
     <MESSAGE value="Submitted HW2" />
     <MESSAGE value="HW2 tweak" />
     <MESSAGE value="added activity 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="added activity 8" />
+    <MESSAGE value="added activity 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="added activity 9" />
   </component>
 </project>
