@@ -1,5 +1,4 @@
 # Required Libraries
-import psycopg2
 # from Demos.win32ts_logoff_disconnected import username
 from cryptography.fernet import Fernet
 import tkinter as tk
@@ -11,15 +10,15 @@ import DBConnector
 
 # Function to generate and store the Fernet key
 def generate_key():
-    if not os.path.exists("secret.key"):
+    if not os.path.exists("../activity6/secret.key"):
         key = Fernet.generate_key()
-        with open("secret.key", "wb") as key_file:
+        with open("../activity6/secret.key", "wb") as key_file:
             key_file.write(key)
 
 
 # Function to load the Fernet key from a file
 def load_key():
-    return open("secret.key", "rb").read()
+    return open("../activity6/secret.key", "rb").read()
 
 # encrypt username
 def encrypt_username(username):

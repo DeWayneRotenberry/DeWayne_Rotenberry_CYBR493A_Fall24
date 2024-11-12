@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="added activity 9 jupyter notebook (not finished)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/In_class_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/In_class_9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity 9/Web_Scraping_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity2_DB_Creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/Activity2_DB_Creator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity2_DB_Truncator.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/Activity2_DB_Truncator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity2_Pro.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/Activity2_Pro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity3_Cipher.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 3/Activity3_Cipher.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity4.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 4/Activity4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 8/Activity_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 9/Activity_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/DBConnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/DBConnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/In_class_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 9/In_class_9.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Web_Scraping_beautiful_soup.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 9/Web_Scraping_beautiful_soup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Web_Scraping_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 8/Web_Scraping_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/custom_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/activity6/custom_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/custom_list_numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/activity6/custom_list_numbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/custom_list_numbers_space.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/activity6/custom_list_numbers_space.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/encrypted_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/activity6/encrypted_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/fernet_decryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_decryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/fernet_encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_encryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/secret.key" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/activity6/secret.key" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,47 +75,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Activity2_DB_Creator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity2_DB_Truncator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity2_Pro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity3_Cipher (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity3_Cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Activity_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DBConnector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DBTester.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1 (IN CLASS).executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Web_Scraping_beautiful_soup_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Web_Scraping_lxml_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Web_Scraping_xml.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ceaser_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.default.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fernet_decryption.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fernet_encryption.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forTrial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.methods_and_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secured_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secured_login_application_hw2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/In Class Activities&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Activity2_DB_Creator.executor": "Run",
+    "Python.Activity2_DB_Truncator.executor": "Run",
+    "Python.Activity2_Pro.executor": "Run",
+    "Python.Activity3_Cipher (1).executor": "Run",
+    "Python.Activity3_Cipher.executor": "Run",
+    "Python.Activity4.executor": "Run",
+    "Python.Activity_8.executor": "Run",
+    "Python.Activity_9.executor": "Run",
+    "Python.DBConnector.executor": "Run",
+    "Python.DBTester.executor": "Run",
+    "Python.For Loops.executor": "Run",
+    "Python.HW1 (IN CLASS).executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.Web_Scraping_beautiful_soup_Main.executor": "Run",
+    "Python.Web_Scraping_lxml_Main.executor": "Run",
+    "Python.Web_Scraping_xml.executor": "Run",
+    "Python.ceaser_cipher.executor": "Run",
+    "Python.default.executor": "Run",
+    "Python.fernet_decryption.executor": "Run",
+    "Python.fernet_encryption.executor": "Run",
+    "Python.forTrial.executor": "Run",
+    "Python.methods_and_main.executor": "Run",
+    "Python.secured_login.executor": "Run",
+    "Python.secured_login_application_hw2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/In Class Activities/Activity 9",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/In Class Activities/Activity 9" />
       <recent name="$PROJECT_DIR$/In Class Activities" />
       <recent name="$PROJECT_DIR$/Homeworks" />
       <recent name="$PROJECT_DIR$/Training" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/In Class Activities/activity6" />
+      <recent name="$PROJECT_DIR$/In Class Activities/Activity 4" />
+      <recent name="$PROJECT_DIR$/In Class Activities/Activity 9" />
+      <recent name="$PROJECT_DIR$/In Class Activities/Activity 2" />
+      <recent name="$PROJECT_DIR$/In Class Activities/Activity 8" />
     </key>
   </component>
   <component name="RunManager">
