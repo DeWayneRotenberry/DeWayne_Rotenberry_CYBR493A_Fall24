@@ -7,7 +7,7 @@ key = Fernet.generate_key()
 cipher_suite = Fernet(key)
 
 # Step 3: Save the key securely to a file for later use in decryption
-with open('../activity6/secret.key', 'wb') as key_file:
+with open('../Activity 6/secret.key', 'wb') as key_file:
     key_file.write(key)
 
 # Step 4: Encrypt a message
@@ -16,7 +16,7 @@ text_bytes = text_to_encrypt.encode()  # Convert the string to bytes
 encrypted_text = cipher_suite.encrypt(text_bytes)  # Encrypt the message
 
 # Step 5: Save the encrypted text to a file to avoid copy-paste issues
-with open('../activity6/encrypted_data.txt', 'wb') as encrypted_file:
+with open('../Activity 6/encrypted_data.txt', 'wb') as encrypted_file:
     encrypted_file.write(encrypted_text)
 
 print("Encryption successful. Encrypted text saved to file.")
