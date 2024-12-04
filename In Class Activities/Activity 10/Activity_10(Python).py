@@ -144,31 +144,3 @@ VALUES (%s, %s, %s, %s)
 for bug in bug_data:
     my_db.query(sql_insert, bug)
 
-#my_db = DBConnector.MyDB()
-
-#sqlCommand = 'CREATE TABLE IF NOT EXISTS Activity10_DeWayne_Rotenberry (Bug_Number int, Bug_Status varchar, Bug_Heat int, Bug_Title varchar);'
-
-#my_db.query(sqlCommand, '')
-
-
-
-
-
-#my_db = DBConnector.MyDB()
-
-#sqlCommand = """
-    #INSERT INTO Activity10_DeWayne_Rotenberry (Bug_Number, Bug_Status, Bug_Heat, Bug_Title)
-    #VALUES (%s, %s, %s, %s)
-    #"""
-#y_db.query(sqlCommand, '')
-# In[ ]:
-
-
-
-#for bug in bugInfo:
-    #bug_number = bug.xpath(".//div['buglisting-col1']//text()")[9].strip()
-    #bug_status = bug.xpath(".//div['buglisting-col1']//text()")[3].strip()
-    ##bug_title = bug.xpath(".//div['buglisting-col1']//text()")[11].strip()
-
-#values = (bug_number, bug_status, bug_heat, bug_title)
-#my_db.query(sqlCommand, values)

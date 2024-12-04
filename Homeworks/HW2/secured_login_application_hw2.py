@@ -8,12 +8,10 @@ This implements a secure login system using a GUI. It encrypts usernames and pas
 
 
 # Required Libraries
-import psycopg2
 import hashlib
 import tkinter as tk
 from tkinter import messagebox
-import os
-import DBConnector
+from Homeworks.HW1.HW1 import DBConnector
 import subprocess
 import sys
 

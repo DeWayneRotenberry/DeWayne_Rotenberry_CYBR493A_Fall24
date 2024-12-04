@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="submitted Activity 10">
-      <change afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/decrypted_file.txt" afterDir="false" />
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="updated folders and submitted activity 12">
+      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/DBConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/Homework 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/Web_Scraping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_decryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_decryption.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 2/fernet_encryption.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity 4/Activity4.py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 4/Activity4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/decrypted_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 12/Activity 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/decrypted_filename.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/decrypted_filename.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/filename.enc" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/filename.enc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/filename.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/filename.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/filename.txt.gpg" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/filename.txt.gpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity5/password_cracking/protected.zip" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 5/password_cracking/protected.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/custom_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/custom_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/custom_list_numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/custom_list_numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/custom_list_numbers_space.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/custom_list_numbers_space.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/encrypted_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/encrypted_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/lost_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/lost_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/lost_data.txt.gpg" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/lost_data.txt.gpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/password_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/password_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/secret.key" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/secret.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/activity6/time_tracker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 6/time_tracker.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/DBConnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/DBConnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/HW1 (IN CLASS).py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/HW1 (IN CLASS).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/HW1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/HW1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/secured_login_application_hw2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW2/secured_login_application_hw2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity 10/Activity_10(Python).py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 10/Activity_10(Python).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +83,7 @@
     "Python.HW1 (IN CLASS).executor": "Run",
     "Python.HW1.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.Homework 3.executor": "Run",
     "Python.Web_Scraping_beautiful_soup_Main.executor": "Run",
     "Python.Web_Scraping_lxml_Main.executor": "Run",
     "Python.Web_Scraping_xml.executor": "Run",
@@ -108,24 +98,24 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/In Class Activities/Activity 10",
+    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks/HW3",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeworks/HW3" />
       <recent name="$PROJECT_DIR$/In Class Activities/Activity 10" />
       <recent name="$PROJECT_DIR$/In Class Activities/Activity 9" />
       <recent name="$PROJECT_DIR$/In Class Activities" />
       <recent name="$PROJECT_DIR$/Homeworks" />
-      <recent name="$PROJECT_DIR$/Training" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeworks/HW2" />
+      <recent name="$PROJECT_DIR$/Homeworks/HW1" />
       <recent name="$PROJECT_DIR$/In Class Activities/Activity 10" />
       <recent name="$PROJECT_DIR$/Other" />
       <recent name="$PROJECT_DIR$/In Class Activities/activity6" />
-      <recent name="$PROJECT_DIR$/In Class Activities/Activity 4" />
-      <recent name="$PROJECT_DIR$/In Class Activities/Activity 9" />
     </key>
   </component>
   <component name="RunManager">
@@ -369,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731625711568</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updated folders and submitted activity 12">
+      <option name="closed" value="true" />
+      <created>1732222032029</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1732222032029</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,6 +399,7 @@
     <MESSAGE value="added directory folders" />
     <MESSAGE value="added activity 10" />
     <MESSAGE value="submitted Activity 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitted Activity 10" />
+    <MESSAGE value="updated folders and submitted activity 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated folders and submitted activity 12" />
   </component>
 </project>

@@ -3,7 +3,7 @@
 # Fall 2024
 
 # Package to connect to DBConnecter, os, time
-import DBConnector
+from Homeworks.HW1.HW1 import DBConnector
 import os
 from datetime import datetime
 

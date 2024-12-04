@@ -2,7 +2,6 @@
 # 9/24/2024
 # Activity 2 Pro
 
-import DBConnector
 import os
 
 
