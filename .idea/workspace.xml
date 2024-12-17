@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="updated folders and submitted activity 12">
-      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/DBConnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/Homework 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HW3/Web_Scraping.py" afterDir="false" />
+    <list default="true" id="61751257-2403-4f69-bee8-48668fe44855" name="Changes" comment="Added HW3">
+      <change afterPath="$PROJECT_DIR$/Projects/Final Project Updated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CYBR493A-Fall-24/Projects/Example 2/NOAA-webpage-checker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../CYBR493A-Fall-24/Projects/Example 2/NOAA-webpage-checker.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/DBConnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/DBConnector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/HW1 (IN CLASS).py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/HW1 (IN CLASS).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/HW1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW1/HW1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/secured_login_application_hw2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/HW2/secured_login_application_hw2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In Class Activities/Activity 10/Activity_10(Python).py" beforeDir="false" afterPath="$PROJECT_DIR$/In Class Activities/Activity 10/Activity_10(Python).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,43 +59,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Activity 12.executor": "Run",
-    "Python.Activity2_DB_Creator.executor": "Run",
-    "Python.Activity2_DB_Truncator.executor": "Run",
-    "Python.Activity2_Pro.executor": "Run",
-    "Python.Activity3_Cipher (1).executor": "Run",
-    "Python.Activity3_Cipher.executor": "Run",
-    "Python.Activity4.executor": "Run",
-    "Python.Activity_10(Python).executor": "Run",
-    "Python.Activity_8.executor": "Run",
-    "Python.Activity_9.executor": "Run",
-    "Python.DBConnector.executor": "Run",
-    "Python.DBTester.executor": "Run",
-    "Python.For Loops.executor": "Run",
-    "Python.HW1 (IN CLASS).executor": "Run",
-    "Python.HW1.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "Python.Homework 3.executor": "Run",
-    "Python.Web_Scraping_beautiful_soup_Main.executor": "Run",
-    "Python.Web_Scraping_lxml_Main.executor": "Run",
-    "Python.Web_Scraping_xml.executor": "Run",
-    "Python.ceaser_cipher.executor": "Run",
-    "Python.default.executor": "Run",
-    "Python.fernet_decryption.executor": "Run",
-    "Python.fernet_encryption.executor": "Run",
-    "Python.forTrial.executor": "Run",
-    "Python.methods_and_main.executor": "Run",
-    "Python.secured_login.executor": "Run",
-    "Python.secured_login_application_hw2.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks/HW3",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Activity 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity2_DB_Creator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity2_DB_Truncator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity2_Pro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity3_Cipher (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity3_Cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity_10(Python).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Activity_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DBConnector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DBTester.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Final Project Updated.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Final Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1 (IN CLASS).executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Web_Scraping_beautiful_soup_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Web_Scraping_lxml_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Web_Scraping_xml.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ceaser_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.default.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fernet_decryption.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fernet_encryption.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forTrial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.methods_and_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secured_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secured_login_application_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/PycharmProjects/DeWayne_Rotenberry_CYBR493A_Fall24/Homeworks/HW3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Homeworks/HW3" />
@@ -367,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732222032029</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Added HW3">
+      <option name="closed" value="true" />
+      <created>1733328408399</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1733328408399</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,6 +404,7 @@
     <MESSAGE value="added activity 10" />
     <MESSAGE value="submitted Activity 10" />
     <MESSAGE value="updated folders and submitted activity 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated folders and submitted activity 12" />
+    <MESSAGE value="Added HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW3" />
   </component>
 </project>
